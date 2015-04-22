@@ -1,5 +1,12 @@
 # Math Search URLs
 
+This set is formated for the 1Writer app and I tested them all so they run. They are also posted in the actions directory so you can install them directly from the app. 
+
+These strings work by searching with the selected text in Safari. No need to copy just select and it should go find it. 
+
+Some of these aren't math links they are just generally useful. 
+
+
 ### Open problem garden
 
 http://www.openproblemgarden.org/search/[text]
