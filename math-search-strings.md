@@ -4,7 +4,11 @@
 
 `%s` search strings because reasons.
 
+
 ## Questions
+
+> [!QUESTION] Why aren't any kids sites listed (besides AoPS)
+> I'm not a child?
 
 > [!QUESTION] Why are there two versions for some sites?
 > Some sites produce different results with different search strings.
@@ -123,4 +127,13 @@ https://mathoverflow.net/search?q=%s
 
 ```
 https://math.stackexchange.com/search?q=%s
+```
+
+### MSRI
+
+> [!NOTE] I mean you can try it... I guess. Not really what it's for.
+
+
+```
+https://www.slmath.org/search?q=Searchh#gsc.tab=0&gsc.q=%s
 ```
