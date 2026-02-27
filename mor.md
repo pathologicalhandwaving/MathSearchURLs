@@ -68,5 +68,15 @@ https://scholar.google.com/scholar?q=%s
 ### Internet Archive
 https://web.archive.org/web/*/%s
 
+### Online Law Dictionary 
+https://dictionary.law.com/Default.aspx?typed=%s
+
+### MW Law Dictionary 
+https://www.merriam-webster.com/dictionary/%s
+
+### NOLO
+https://www.nolo.com/search/no-results?query=%s
+
+### 
 
 
