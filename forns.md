@@ -35,3 +35,7 @@ https://www.regjeringen.no/en/whats-new/rss/id2581966/
 
 https://pet.dk/en/news-and-publications/publications
 
+https://greydynamics.com/ddis-denmarks-defence-intelligence-service/
+
+https://www.fe-ddis.dk/en/about-ddis/
+
